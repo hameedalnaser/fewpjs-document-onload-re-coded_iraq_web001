@@ -1,4 +1,5 @@
 // Your code goes here
-document.addEventListener('DOMContentLoaded', function(e){
-  console.log('DOM loaded')
+document.addEventListener('DOMContentLoaded', function(){
+  text=getElementById("text");
+  text.innerText = 'sjikfheujshhhhhhi'
 })
